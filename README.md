@@ -17,6 +17,12 @@ require("kurs.php");</pre>
  
 
 <pre>$data = kurs("bca");</pre>
+
+<p>Atatu menampilkan KURS dari semua BANK<br>
+</p>
+ 
+
+<pre>$data = kurs("all");</pre>
  <h4>Convert ARRAY to JSON:</h4>
  
 
