@@ -81,7 +81,7 @@ function curl(){
 	$data[] = ["bank" => "bi", "url" => "http://www.bi.go.id/id/moneter/informasi-kurs/transaksi-bi/Default.aspx",	"td" => "31", "field1" => "2", "field2" => "3"];
 	$data[] = ["bank" => "bca", "url" => "http://www.bca.co.id/id/Individu/Sarana/Kurs-dan-Suku-Bunga/Kurs-dan-Kalkulator",	"td" => "2", "field1" => "1", "field2" => "2"];
 	$data[] = ["bank" => "permata", "url" => "https://www.permatabank.com/kurs/", "td" => "1", "field1" => "4", "field2" => "3"];
-	$data[] = ["bank" => "bni", "url" => "http://www.bni.co.id/informasivalas.aspx", "td" => "5", "field1" => "1", "field2" => "2"];
+	$data[] = ["bank" => "bni", "url" => "http://www.bni.co.id/informasivalas.aspx", "td" => "14", "field1" => "1", "field2" => "2"];
 	$data[] = ["bank" => "bri", "url" => "http://www.bri.co.id/rates", "td" => "22", "field1" => "2", "field2" => "1"];
 	$data[] = ["bank" => "bukopin", "url" => "http://www.bukopin.co.id/", "td" => "3", "field1" => "2", "field2" => "1"];
 	$data[] = ["bank" => "danamon", "url" => "http://www.danamon.co.id/Home/AboutDanamon/FXRates/tabid/272/language/id-ID/Default.aspx", "td" => "1", "field1" => "2", "field2" => "1"];
